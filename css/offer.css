@@ -1,0 +1,60 @@
+.offer {
+    padding: 80px 0;
+}
+
+.offer__title {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.card {
+    row-gap: 30px;
+    background-color: #EDF0F9;
+    border-radius: 20px; 
+}
+
+.card__image {
+    width: 100%;
+}
+
+.card__image-text {
+    position: absolute;
+    right: 20px;
+    top: 12px;
+    padding-left: 30px;
+    color: white;
+    height: 20px;
+    background-image: url("../img/mdi_access_time.svg");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.card__text {
+    min-height: 300px;
+    padding: 30px;
+}
+
+.card__title {
+    margin: 0;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5em;
+}
+
+.card__paragraph {
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+.card__button { 
+    position: absolute;
+    bottom: 30px; 
+    padding: 20.5px 59px;
+    font-size: 16px;
+    font-weight: 700;
+}

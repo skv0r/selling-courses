@@ -1,0 +1,110 @@
+@media (max-width: 1199px) {
+    .goal__item {
+        padding: 0;
+        padding-top: 95px;
+    }
+
+}
+
+
+@media (max-width: 991px) {
+    .course {
+        padding: 130px 0;
+    }
+
+    .banner__title {
+        max-width: 385px;
+        font-size: 50px;
+    }
+
+    .banner__paragraph{
+        max-width: 345px;
+    }
+
+    .teacher__list{
+        row-gap: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .course {
+        padding: 70px 0 135px 0;
+    }
+
+    .header__logo {
+        margin-bottom: 30px;
+    }
+
+    .nav__list {
+        flex-wrap: nowrap;
+
+    }
+
+    .header__nav {
+        overflow-x: scroll;
+    }
+    
+    .nav__link {
+        text-wrap: nowrap;
+    }
+
+    .disabled {
+        display: none;
+    }
+
+}
+
+@media (max-width: 575px) {
+    .course {
+        padding: 50px 0;
+    }
+
+     .banner__title {
+        margin-bottom: 15px;
+        font-size: 30px;
+     }
+
+     .banner__button {
+        padding: 20.5px 53.5px;
+        font-size: 16px;
+     }
+
+     .banner__paragraph {
+        margin-bottom: 50px;
+        font-size: 16px;
+        line-height: 1.3em;
+     }
+
+     .image-disabled {
+        display: none;
+     }
+
+     .advantage {
+        padding: 50px 0;
+     }
+
+     .goal__item {
+        padding: 0;
+        padding-left: 110px;
+     }
+
+     .goal__list {
+        row-gap: 30px;
+     }
+
+     .advantage__block-title {
+        font-size: 20px;
+     }
+
+     .teacher {
+        padding: 50px 0;
+     }
+
+     .teacher__title {
+        font-size: 20px;
+     }
+
+     .teacher__image {
+        border-radius: 35px 35px 0 0;
+     }
+}

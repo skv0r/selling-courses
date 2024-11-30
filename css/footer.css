@@ -1,0 +1,19 @@
+.footer {
+    background-color: #2E2B44;
+}
+
+.footer__container {
+    padding: 28px 0;
+}
+
+.footer__span {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}

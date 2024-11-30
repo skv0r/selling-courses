@@ -1,0 +1,32 @@
+.teacher {
+    background-color: #212133;
+    padding: 80px 0;
+}
+
+.teacher__image {
+    width: 100%;
+    margin-bottom: 30px;
+    border-radius: 20px 20px 0 0;
+}
+
+.teacher__title {
+    margin: 0;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.teacher__name {
+    margin-bottom: 15px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5em;
+}
+
+.teacher__parapraph {
+    font-size: 16px;
+    font-weight: 400;
+    color: #85859B;
+}
