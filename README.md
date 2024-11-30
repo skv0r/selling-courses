@@ -4,7 +4,7 @@
 
 ## Демо
 
-![Скриншот сайта](screenshots/selling-courses.png)
+![Скриншот сайта](screens/selling-courses.png)
 
 ## О проекте
 
