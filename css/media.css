@@ -24,6 +24,10 @@
     .teacher__list{
         row-gap: 30px;
     }
+
+    .card__button {
+        padding: 20.5px 55.5px;
+    }
 }
 
 @media (max-width: 767px) {
@@ -50,6 +54,10 @@
 
     .disabled {
         display: none;
+    }
+
+    .card__button {
+        padding: 20.5px 48px;
     }
 
 }
@@ -107,4 +115,12 @@
      .teacher__image {
         border-radius: 35px 35px 0 0;
      }
+
+     .offer__title {
+        font-size: 20px;
+     }
+
+     .card__button {
+        padding: 20.5px 55.5px;
+    }
 }
