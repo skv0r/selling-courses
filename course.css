@@ -1,0 +1,31 @@
+.course {
+    padding: 15px 0;
+    background: radial-gradient(circle at right center, #555681 0%, #212133 100%);
+}
+
+.banner__title {
+    margin: 0;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.banner__paragraph {
+    margin-bottom: 70px;
+    color: white;
+}
+
+.banner__button {
+    padding: 24px 75.5px;
+}
+
+.picture {
+    display: flex;
+    align-items: center;
+}
+
+.disabled {
+    display: flex;
+    justify-content: end;
+}
